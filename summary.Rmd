@@ -12,9 +12,11 @@ knit: (function(input_file, encoding) {
 ---
 
 
+See my formula:
 
-
-Will this work? Ihope. 
+$$
+\frac{\sqrt{x}}{\int_\sum}
+$$
 
 
 
